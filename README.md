@@ -5,6 +5,7 @@ and computed on dynamically allocatd threads, utilising a custom built thread po
 in a variable, diration of serving and moment of arrival are allocated randomly. Program displays all clients, and serving of
 each one of them, in real time, duration of serving being in increments of 1s.
 <br>
+<br>
   Program utilises thread pool variables and lists to ensure thread safety.
 
 <img src="https://github.com/edinebunu/Java-Multi-threaded-Simulation/blob/main/Images/Screenshot%202021-07-03%20202806.png" width="270">
